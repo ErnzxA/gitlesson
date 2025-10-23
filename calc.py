@@ -11,3 +11,11 @@ def multiply_numbers(x, y, z):
 
 print("Көбейтінді:", multiply_numbers(a, b, c))#vjhuvjh
 
+print( a+b+ с)
+
+print("аскаааа")
+
+z = a-b
+print(z)
+
+print("алдик банннкай")
