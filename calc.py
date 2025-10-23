@@ -1,7 +1,12 @@
-a = int(input("пеервое число:"))
+def multiply(a,b):
+    return a*b
 
-b = int(input("второе число:"))
 
-с= int(input("второе число:"))
 
-print( a+b+ с)
+a = int(input("1 число:"))
+
+b = int(input("2 число:"))
+
+c= int(input("3 число:"))
+
+print( a+multiply(b,c) )
