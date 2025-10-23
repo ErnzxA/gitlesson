@@ -1,7 +1,12 @@
-a = int(input("пеервое число:"))
 
-b = int(input("второе число:"))
+a = int(input("Первое число: "))
+b = int(input("Второе число: "))
+c = int(input("Третье число: "))
 
-с= int(input("второе число:"))
+print("Сумма:", a + b + c)
 
-print( a+b+ с)
+
+def multiply_numbers(x, y, z):
+    return x * y * z
+
+print("Көбейтінді:", multiply_numbers(a, b, c))
