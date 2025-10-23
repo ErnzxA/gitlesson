@@ -9,5 +9,5 @@ print("Сумма:", a + b + c)
 def multiply_numbers(x, y, z):
     return x * y * z
 
-print("Көбейті:", multiply_numbers(a, b, c))#v
+print("Көбейтіndi:", multiply_numbers(a, b, c))#v
 
