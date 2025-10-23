@@ -5,3 +5,10 @@ b = int(input("второе число:"))
 с= int(input("второе число:"))
 
 print( a+b+ с)
+
+print("аскаааа")
+
+z = a-b
+print(z)
+
+print("алдик банннкай")
