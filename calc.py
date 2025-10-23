@@ -4,4 +4,4 @@ b = int(input("второе число:"))
 
 с= int(input("второе число:"))
 
-print( a+b+ с)
+print( a+b - с)
