@@ -1,7 +1,11 @@
-a = int(input("пеервое число:"))
+a = int(input("первое число:"))
 
 b = int(input("второе число:"))
 
-с= int(input("второе число:"))
+с= int(input("третье число:"))
 
-print( a+b+ с)
+def ornek():
+    if b==0:
+        print("Kate")
+    else:
+        print(a/b)
